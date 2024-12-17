@@ -2,7 +2,7 @@ Here's the updated README to include **Prophet** and **LSTM** methodologies:
 
 ---
 
-# README for "Analyzing and Forecasting Commodity Price Trends Using Data-Driven Models"
+# Analyzing and Forecasting Commodity Price Trends Using Data-Driven Models
 
 ## Overview
 This repository contains the research and analysis conducted in the study *Analyzing and Forecasting Commodity Price Trends Using Data-Driven Models*. The study focuses on predicting the prices of five key commodities—Gold, Silver, Copper, Palladium, and Platinum—using advanced statistical, machine learning, and deep learning techniques. The analysis includes data exploration, model development, and actionable insights tailored for financial and industrial stakeholders.
