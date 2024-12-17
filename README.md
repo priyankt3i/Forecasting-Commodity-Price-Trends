@@ -1,7 +1,3 @@
-Here's the updated README to include **Prophet** and **LSTM** methodologies:
-
----
-
 # Analyzing and Forecasting Commodity Price Trends Using Data-Driven Models
 
 ## Overview
